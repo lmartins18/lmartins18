@@ -1,9 +1,9 @@
 ### Hi there 👋
-![lmartins18's GitHub stats](https://raw.githubusercontent.com/lmartins18/stats/master/generated/overview.svg#gh-dark-mode-only)
-![lmartins18's GitHub stats](https://raw.githubusercontent.com/lmartins18/stats/master/generated/overview.svg#gh-light-mode-only)
+![lmartins18's GitHub stats](https://raw.githubusercontent.com/lmartins18/stats/master/generated/overview.svg#gh-dark-mode-only)  ![Top Langs](https://raw.githubusercontent.com/lmartins18/stats/master/generated/languages.svg#gh-dark-mode-only)
+![lmartins18's GitHub stats](https://raw.githubusercontent.com/lmartins18/stats/master/generated/overview.svg#gh-light-mode-only)  ![Top Langs](https://raw.githubusercontent.com/lmartins18/stats/master/generated/languages.svg#gh-light-mode-only)
 
-![Top Langs](https://raw.githubusercontent.com/lmartins18/stats/master/generated/languages.svg#gh-dark-mode-only)
-![Top Langs](https://raw.githubusercontent.com/lmartins18/stats/master/generated/languages.svg#gh-light-mode-only)
+
+
 
 <!--
 **lmartins18/lmartins18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
