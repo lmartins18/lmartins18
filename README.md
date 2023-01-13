@@ -1,5 +1,4 @@
 ### Hi there 👋
-(https://github-readme-stats.vercel.app/api?username=&count_private=true&show_icons=true&theme=tokyonight)
 ![lmartins18's GitHub stats](https://raw.githubusercontent.com/lmartins18/stats/master/generated/overview.svg#gh-dark-mode-only)
 ![lmartins18's GitHub stats](https://raw.githubusercontent.com/lmartins18/stats/master/generated/overview.svg#gh-light-mode-only)
 
