@@ -1,7 +1,10 @@
-<p>
-  <img src="https://raw.githubusercontent.com/lmartins18/stats2/main/profile-summary-card-output/2077/0-profile-details.svg" height="180"/>
-  <img src="https://raw.githubusercontent.com/lmartins18/stats2/main/profile-summary-card-output/2077/2-most-commit-language.svg" height="180"/>
-</p>
+<div align="center">
+
+| | |
+|---|---|
+| <img src="https://raw.githubusercontent.com/lmartins18/stats2/main/profile-summary-card-output/2077/0-profile-details.svg"> | <img src="https://raw.githubusercontent.com/lmartins18/stats2/main/profile-summary-card-output/2077/2-most-commit-language.svg"> |
+
+</div>
   <!--
 
   - I’m currently working on ...
