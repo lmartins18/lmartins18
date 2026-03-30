@@ -1,8 +1,7 @@
-### Hi there
-
-  [![](https://raw.githubusercontent.com/lmartins18/stats2/main/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  [![](https://raw.githubusercontent.com/lmartins18/stats2/main/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+<p>
+  <img src="https://raw.githubusercontent.com/lmartins18/stats2/main/profile-summary-card-output/2077/0-profile-details.svg" height="180"/>
+  <img src="https://raw.githubusercontent.com/lmartins18/stats2/main/profile-summary-card-output/2077/2-most-commit-language.svg" height="180"/>
+</p>
   <!--
 
   - I’m currently working on ...
